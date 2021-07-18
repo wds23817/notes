@@ -1,11 +1,11 @@
 ## Get:
-######To retrieve data
+*To retrieve data*
 
 ## Post:
-######Tell the server to create something new
+*Tell the server to create something new*
 
 ## Put:
-######Tell the server to update something already existed in the server
+*Tell the server to update something already existed in the server*
 
 ## Delete:
-######To delete something 
+*To delete something* 
